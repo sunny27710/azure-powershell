@@ -1,3 +1,7 @@
+## 5.0.0 - August 2020
+#### Az.Websites
+* Added support to perform operations for Slots not in the same resource group as the App Service Plan
+
 ## 4.8.0 - October 2020
 #### Az.Accounts
 * Fixed DateTime parse issue in common libraries [#13045]

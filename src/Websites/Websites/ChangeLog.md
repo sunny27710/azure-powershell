@@ -18,6 +18,8 @@
         - Additional information about change #1
 -->
 ## Upcoming Release
+
+## Version 0.1.0
 * Added support for Premium V3 pricing tier
 
 ## Version 1.11.0
