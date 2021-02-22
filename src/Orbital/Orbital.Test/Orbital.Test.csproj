@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PsModuleName>Orbital</PsModuleName>
+  </PropertyGroup>
+
+  <Import Project="$(MSBuildThisFileDirectory)..\..\Az.Test.props" />
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Azure.Management.Cdn" Version="4.4.0" />
+  </ItemGroup>
+
+</Project>
